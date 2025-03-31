@@ -11,6 +11,8 @@ namespace LaboratorioProgramacion
         static void Main(string[] args)
         {
             Console.WriteLine("¡Lindo viernes para estar con Visual Studio 2022!");
+            Console.WriteLine("¡Pegale al arco Cavani!");
+            Console.WriteLine("Lindo dia");
 
         }
     }
